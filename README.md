@@ -15,13 +15,13 @@ My expertise includes:
 ## 🛠️ Skills
 
 Here are my top technical skills:
-- **Programming Languages**: PHP, Java, Python, Golang, SQL, JavaScript
-- **Web Development**: HTML5, CSS3, Vue.js, React.js, Angular
+- **Programming Languages**: PHP, Java, Python, Golang, JavaScript, Flutter, Kotlin, Swift, React Native, C#
+- **Web Development**: HTML5, CSS3, Vue.js, React.js, Angular, Tailwind CSS, Bootstrap, Material UI
 - **Backend Development**: Laravel, Django, Spring Boot, Node.js
 - **Databases**: MySQL, PostgreSQL, MongoDB, Firebase
 - **Cloud Platforms**: AWS, Google Cloud, Azure
 - **DevOps**: Docker, Kubernetes, CI/CD
-- **Other Tools**: Git, Jenkins, Nginx, Apache, Firebase
+- **Other Tools**: Git, Jenkins, Nginx, Apache, Firebase, Elastic Search, Logstash, RabbitMQ, Kafka,Kibana, Grafana, Prometheus, Splunk
 
 ## 🌱 Current Focus
 
